@@ -1,4 +1,4 @@
-# Health Insurance Cross-Sell Prediction Project
+# Max Life Health Insurance Cross-Sell Prediction Project
 
 ## **Overview**
 This repository includes the code and documentation for a data science project focused on predicting customer interest in cross-selling vehicle insurance within a health insurance company.
